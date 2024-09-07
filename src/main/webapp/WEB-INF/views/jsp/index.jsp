@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to bhasker home page</h2>
-			<h3>Devops Technology</h3>
+			<h2>We Dont talk anymore!!!! </h2>
+			<h3> I dont know why</h3>
 		</div>	
 	</div>
 
